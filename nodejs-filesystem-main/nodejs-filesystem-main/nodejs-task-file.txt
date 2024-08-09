@@ -23,7 +23,7 @@ Endpoints:
   ]
 }
 
-GitHub Repo - https://github.com/RakeshV0498/nodejs-filesystem.git
+GitHub Repo - https://github.com/ItzAmarnath/Nodejs-Filesystem.git
 
 last Committed HashID - cbaa0e8c218b846578a09dbb6c0aa93b0f786a7a9 (Before Uploading this Text file)
 
